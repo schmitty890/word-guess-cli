@@ -1,0 +1,24 @@
+{
+  "name": "word-guess-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schmitty890/word-guess-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schmitty890/word-guess-cli/issues"
+  },
+  "homepage": "https://github.com/schmitty890/word-guess-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^5.2.0",
+    "random-word": "^2.0.0"
+  }
+}

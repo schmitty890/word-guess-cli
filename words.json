@@ -1,0 +1,41 @@
+{
+    "category": {
+        "sports": [
+            {"word":"football", "hint": "very physical"},
+            {"word":"hockey", "hint": "played with a puck"},
+            {"word":"soccer", "hint": "ball"},
+            {"word":"softball", "hint": "played with a ball, that is not very soft..."},
+            {"word":"beach volleyball", "hint": "babes on the sand play this"},
+            {"word":"golf", "hint": "FORE!"},
+            {"word":"basketball", "hint": "swish"},
+            {"word":"tennis", "hint": "played on a court"},
+            {"word":"baseball", "hint": "major league"},
+            {"word":"weightlifting", "hint": "pick things up and put them down"}
+        ],
+        "shapes": [
+            {"word":"square", "hint": "90 degree angles"},
+            {"word":"circle", "hint": "360 degrees"},
+            {"word":"triangle", "hint": "three sides"},
+            {"word":"octagon", "hint": "eight sides"},
+            {"word":"pentagon", "hint": "five sides"},
+            {"word":"cone", "hint": "wear this on your head maybe?"},
+            {"word":"hexagon", "hint": "six sides"},
+            {"word":"oval", "hint": "kinda like a circle?"},
+            {"word":"decagon", "hint": "ten sides"},
+            {"word":"pyramid", "hint": "egyptians made these..."},
+            {"word":"heptagon", "hint": "seven sides"}
+        ],
+        "food": [
+            {"word":"egg", "hint": "chickens lay"},
+            {"word":"apple", "hint": "give this to your teacher"},
+            {"word":"bacon", "hint": "eggs and what"},
+            {"word":"crab", "hint": "caught in the sea"},
+            {"word":"cereal", "hint": "breakfast"},
+            {"word":"ham", "hint": "green eggs and"},
+            {"word":"jelly", "hint": "pbnj"},
+            {"word":"pizza", "hint": "americans love it"},
+            {"word":"pancakes", "hint": "ihop is known for these"},
+            {"word":"spaghetti", "hint": "pasta meal"}
+        ]
+    }
+}

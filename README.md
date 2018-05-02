@@ -15,5 +15,5 @@ Run `npm start` in your terminal and you will be prompted
 
 
 
-<img src="https://thumbs.gfycat.com/LeadingEsteemedEyelashpitviper-size_restricted.gif" width="600" height="400" style="display: block; margin: 0 auto;" />
-<img src="https://thumbs.gfycat.com/AmpleOddAquaticleech-size_restricted.gif" width="600" height="400" style="display: block; margin: 0 auto;" />
+<img src="https://thumbs.gfycat.com/LeadingEsteemedEyelashpitviper-size_restricted.gif" width="600" height="400" style="display: block !important; margin: 0 auto !important;" />
+<img src="https://thumbs.gfycat.com/AmpleOddAquaticleech-size_restricted.gif" width="600" height="400" style="display: block !important; margin: 0 auto; !important" />

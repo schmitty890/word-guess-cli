@@ -9,12 +9,13 @@
 
 
 <img src="https://thumbs.gfycat.com/AmpleOddAquaticleech-size_restricted.gif" width="600" height="400" />
+
 * run `npm install`
 
 
 You're ready to go!
 
-How to use?
+### How to use?
 
 <img src="https://thumbs.gfycat.com/ConcreteAngelicIvorybackedwoodswallow-size_restricted.gif" width="600" height="400" />
 
@@ -24,10 +25,10 @@ Run `npm start` in your terminal and you will be asked to choose a word with a h
 
 ### Technology used
 
-Node.js
-[npm random-word](https://www.npmjs.com/package/random-word)
-[npm chalk](https://www.npmjs.com/package/chalk)
-[npm inquirer](https://www.npmjs.com/package/inquirer)
+* Node.js
+* [npm random-word](https://www.npmjs.com/package/random-word)
+* [npm chalk](https://www.npmjs.com/package/chalk)
+* [npm inquirer](https://www.npmjs.com/package/inquirer)
 
 
 

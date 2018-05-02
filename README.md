@@ -14,4 +14,7 @@ How to use?
 Run `npm start` in your terminal and you will be prompted 
 
 
-![Alt Text](https://thumbs.gfycat.com/LeadingEsteemedEyelashpitviper-size_restricted.gif)
+![Alt Text](https://gfycat.com/LeadingEsteemedEyelashpitviper)
+
+
+![Alt Text](https://gfycat.com/AmpleOddAquaticleech)

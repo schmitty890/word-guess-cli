@@ -17,4 +17,4 @@ Run `npm start` in your terminal and you will be prompted
 ![Alt Text](https://thumbs.gfycat.com/LeadingEsteemedEyelashpitviper-size_restricted.gif =250x250)
 
 
-![Alt Text](https://thumbs.gfycat.com/AmpleOddAquaticleech-size_restricted.gif){:height="700px" width="400px"}
+![Alt Text](https://thumbs.gfycat.com/AmpleOddAquaticleech-size_restricted.gif){:height="400px" width="400px"}

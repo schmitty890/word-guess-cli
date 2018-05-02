@@ -6,7 +6,6 @@ const Word = function(theWord) {
     this.letters = []; // array of letters to hold letter objects representing the letters of the underlying word
     this.lettersGuessed = [];
     this.lettersGuessedDisplay = () => {
-        // console.log('you have already guessed' + this.lettersGuessed);
         log(chalk.white(`You have guessed: `) + chalk.white.bold.bgBlackBright(`${this.lettersGuessed}`));
     };
     this.giveItUp = (theWord) => {

@@ -9,7 +9,6 @@ const Letter = function(letter) {
         }
     };
     this.hasLetterBeenGuessed = (letter) => {
-        // console.log('Letter guessed: ' + letter + ' Letter: ' + this.letter);
         if (letter === this.letter) { // if the letter is equal to this letter
             this.guessed = true; // set this guessed to true
         }

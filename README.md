@@ -1,5 +1,7 @@
 # word-guess-cli
 
+word-guess-cli is a command line node.js application that is a word guessing game. there are two types of words, ones that come with hints, and ones that don't. the ones that don't come with hints come from npm random-word, while the ones that do come from a json file within the application.
+
 ### Installation
 
 <img src="https://thumbs.gfycat.com/LeadingEsteemedEyelashpitviper-size_restricted.gif" width="600" height="400" />

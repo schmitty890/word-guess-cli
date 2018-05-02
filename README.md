@@ -13,4 +13,5 @@ How to use?
 
 Run `npm start` in your terminal and you will be prompted 
 
-<a href="https://imgflip.com/gif/29i0af"><img src="https://i.imgflip.com/29i0af.gif" title="made at imgflip.com"/></a>
+
+<div style='position:relative;padding-bottom:54%'><iframe src='https://gfycat.com/ifr/LeadingEsteemedEyelashpitviper' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0' allowfullscreen></iframe></div>
